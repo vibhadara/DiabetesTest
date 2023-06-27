@@ -1,9 +1,14 @@
 ---
 title: "median-age"
+execute: 
+  echo: false
+  message: false
+  warning: false
 ---
 
 ```{r}
 library(tidycensus)
+library(tidyverse)
 x <- get_decennial(geography = "county", 
                    variables = c(population = "P001001", 
                                  med_age_male = "P013002", 
@@ -13,6 +18,8 @@ x <- get_decennial(geography = "county",
 ```
 
 ```{r}
-summary(x)
+x|>
+  ggplot(aes(x = med_age_male, y = med_age_female)) +
+  geom_point()
 ```
 
