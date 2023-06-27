@@ -1,0 +1,18 @@
+---
+title: "median-age"
+---
+
+```{r}
+library(tidycensus)
+x <- get_decennial(geography = "county", 
+                   variables = c(population = "P001001", 
+                                 med_age_male = "P013002", 
+                                 med_age_female = "P013003"), 
+                   year = 2010, 
+                   output = "wide")
+```
+
+```{r}
+summary(x)
+```
+
