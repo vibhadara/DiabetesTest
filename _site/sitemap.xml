@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vibhadara.quarto.pub/median-age/about.html</loc>
-    <lastmod>2023-07-10T04:48:49.662Z</lastmod>
+    <loc>https://6c43a95d-244f-4538-b4d8-dd2131da8d46.netlify.app/about.html</loc>
+    <lastmod>2023-07-10T05:20:21.911Z</lastmod>
   </url>
   <url>
-    <loc>https://vibhadara.quarto.pub/median-age/index.html</loc>
-    <lastmod>2023-07-10T04:48:50.470Z</lastmod>
+    <loc>https://6c43a95d-244f-4538-b4d8-dd2131da8d46.netlify.app/index.html</loc>
+    <lastmod>2023-07-10T05:20:34.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https://6c43a95d-244f-4538-b4d8-dd2131da8d46.netlify.app/sources.html</loc>
+    <lastmod>2023-07-10T05:20:35.180Z</lastmod>
   </url>
 </urlset>

@@ -1,1 +1,1 @@
-Sitemap: https://vibhadara.quarto.pub/median-age/sitemap.xml
+Sitemap: https://6c43a95d-244f-4538-b4d8-dd2131da8d46.netlify.app/sitemap.xml
