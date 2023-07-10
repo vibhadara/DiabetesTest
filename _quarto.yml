@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "median-age"
+  title: "Diabetes"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      
 format:
   html:
     theme: cosmo
